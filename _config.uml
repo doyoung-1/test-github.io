@@ -1,0 +1,8 @@
+locale                   : "en-US"
+title                    : "DY"
+title_separator          : "-"
+subtitle                 : portfolio
+name                     : "doyoung"
+description              : "my portfolio"
+url                      : "https://doyoung-1.github.io/test-github.io/"
+baseurl                  : ""
